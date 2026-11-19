@@ -1,0 +1,965 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.638960134879824,
+          -42.056979081005643
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Código" : 102122,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "02-08-2021"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.684822456504477,
+          -41.721644933991684
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Código" : 103727,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "12-08-2025"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.383487474890813,
+          -45.476112918370163
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Código" : 110802,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "11-08-2022"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.192248438852147,
+          -45.346532490839486
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Código" : 110850,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "RN Las Guaitecas",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "08-05-2026"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.317548128419304,
+          -45.386507295129867
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Código" : 110890,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "29-09-2023"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.190666597912781,
+          -45.057278198473853
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Código" : 110819,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "RN Las Guaitecas",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "10-09-2025"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.826116656923787,
+          -45.476909736701039
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Código" : 110005,
+        "Denuncia_T" : "NO",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "24-04-2025"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.831920316831102,
+          -45.481144255357805
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Código" : 110007,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 2,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "08-01-2024 - 24-04-2025"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.716657061112571,
+          -42.865458310057676
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Código" : 101914,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 2,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "11-01-2021 - 01-08-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.839171774740151,
+          -45.466874261136077
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Código" : 110015,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "07-04-2026"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.135469979327709,
+          -45.457633190800081
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Código" : 110793,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "RN Las Guaitecas",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "15-02-2022"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.542518865891608,
+          -42.989593044769414
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Código" : 101946,
+        "Denuncia_T" : "NO",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "01-08-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.971495868574905,
+          -42.728226184620596
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Código" : 102423,
+        "Denuncia_T" : "NO",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "08-05-2026"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.106184312246953,
+          -42.732850381381674
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Código" : 104141,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "13-08-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.502166061090747,
+          -40.850796498945144
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Código" : 100625,
+        "Denuncia_T" : "NO",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "10-08-2023"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.843331447033137,
+          -42.804360869051784
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Código" : 103340,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "11-01-2021"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.895435762002577,
+          -44.652519633137842
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Código" : 110175,
+        "Denuncia_T" : "NO",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "15-05-2023"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.315558199273994,
+          -45.373271821445584
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Código" : 110128,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "30-01-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.99548342109756,
+          -45.39761387257515
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Código" : 110138,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "24-04-2025"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.19433201124896,
+          -44.020592921126216
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Código" : 110213,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "24-04-2025"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.469982418595066,
+          -45.039703716984306
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Código" : 110318,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "12-08-2022"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.45962199465275,
+          -45.039020081366239
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Código" : 110291,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "12-08-2025"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.81240499237731,
+          -42.943232044734287
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Código" : 102619,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "30-06-2026"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.987744295213787,
+          -45.388960444478656
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Código" : 110401,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "RN Las Guaitecas",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "30-01-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.882982053885883,
+          -43.214175989063087
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Código" : 102895,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "01-02-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.649593291196382,
+          -44.367610417191358
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Código" : 110464,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "24-04-2025"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.222674921822474,
+          -44.280881187226171
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Código" : 110423,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "30-01-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.272325215174249,
+          -44.488383361039531
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Código" : 110686,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "RN Las Guaitecas",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "13-08-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.146457778505152,
+          -44.4570239570333
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Código" : 110603,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "RN Las Guaitecas",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "20-12-2023"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.305924654489445,
+          -44.337670025081664
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Código" : 110647,
+        "Denuncia_T" : "NO",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "RN Las Guaitecas",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "06-12-2022"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.683224885788775,
+          -44.495826626192077
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Código" : 110699,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "01-02-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.708517902983033,
+          -41.595601299946999
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Código" : 100078,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "01-10-2018"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.000793467663527,
+          -42.79358418704188
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Código" : 103304,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "01-02-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.092701089567996,
+          -42.766760073109744
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Código" : 103306,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "01-02-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.020445059929855,
+          -44.510505774143468
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Código" : 110388,
+        "Denuncia_T" : "NO",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "RN Las Guaitecas",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "22-09-2026"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.295178728703505,
+          -44.621828593244146
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Código" : 110376,
+        "Denuncia_T" : "NO",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "RN Las Guaitecas",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "22-09-2026"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.676828760592016,
+          -52.114990654680149
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Código" : 120065,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "08-08-2021"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.000135897089535,
+          -42.245113995875386
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Código" : 103566,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "23-05-2025"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.907083543897144,
+          -51.757387518170951
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Código" : 120095,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "01-12-2016"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.870246084094006,
+          -52.177803501217973
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "Código" : 120079,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 2,
+        "Área_Prot" : "RN Kawésqar",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "13-08-2024 - 13-08-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.887564499650978,
+          -52.27238685374622
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "Código" : 120077,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 2,
+        "Área_Prot" : "RN Kawésqar",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "28-12-2023 - 13-08-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.900716581027368,
+          -51.774446408896104
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "Código" : 120113,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "03-03-2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -71.882947484099859,
+          -52.581418514934434
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "Código" : 120193,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "28-12-2023"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.600878461624873,
+          -51.81016997827308
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "Código" : 120035,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "30-06-2026"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.035659590512097,
+          -42.781617530131285
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "Código" : 103339,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "01-02-2024"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.578506492431544,
+          -41.435859672952603
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "Código" : 100394,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "10-08-2023"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.381242606364083,
+          -44.367626475488223
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "Código" : 110912,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 2,
+        "Área_Prot" : "RN Las Guaitecas",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "24-04-2025 - 24-04-2025"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.466861248085877,
+          -42.314071717664284
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "Código" : 103310,
+        "Denuncia_T" : "SI",
+        "Cantidad_d" : 1,
+        "Área_Prot" : "NO",
+        "Empresa" : " ",
+        "Fecha_Ingr" : "10-04-2024"
+      }
+    }
+  ]
+}
