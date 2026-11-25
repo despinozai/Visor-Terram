@@ -1,0 +1,965 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.63896013487982,
+          -42.05697908100564
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "Código": 102122,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "PRODUCTOS DEL MAR VENTISQUEROS S.A.",
+        "Fecha_Ingr": "02-08-2021"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.68482245650448,
+          -41.72164493399168
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "Código": 103727,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "SALMONES HUMBOLDT SPA",
+        "Fecha_Ingr": "12-08-2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.38348747489081,
+          -45.47611291837016
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "Código": 110802,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " INVERMAR S.A.",
+        "Fecha_Ingr": "11-08-2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.19224843885215,
+          -45.346532490839486
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "Código": 110850,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "RN Las Guaitecas",
+        "Empresa": "PRIMAR SA",
+        "Fecha_Ingr": "08-05-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3175481284193,
+          -45.38650729512987
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "Código": 110890,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " SALMONES ANTARTICA S.A.",
+        "Fecha_Ingr": "29-09-2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.19066659791278,
+          -45.05727819847385
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "Código": 110819,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "RN Las Guaitecas",
+        "Empresa": "AUSTRALIS MAR S.A.",
+        "Fecha_Ingr": "10-09-2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.82611665692379,
+          -45.47690973670104
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "Código": 110005,
+        "Denuncia_T": "NO",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "AQUACHILE SPA",
+        "Fecha_Ingr": "24-04-2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8319203168311,
+          -45.481144255357805
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "Código": 110007,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 2,
+        "Área_Prot": "NO",
+        "Empresa": "EXPORTADORA LOS FIORDOS LTDA.",
+        "Fecha_Ingr": "08-01-2024 - 24-04-2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.71665706111257,
+          -42.865458310057676
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "Código": 101914,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 2,
+        "Área_Prot": "NO",
+        "Empresa": " INVERMAR S.A.",
+        "Fecha_Ingr": "11-01-2021 - 01-08-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.83917177474015,
+          -45.46687426113608
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "Código": 110015,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "EXPORTADORA LOS FIORDOS LTDA",
+        "Fecha_Ingr": "07-04-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13546997932771,
+          -45.45763319080008
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "Código": 110793,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "RN Las Guaitecas",
+        "Empresa": " AUSTRALIS MAR S.A.",
+        "Fecha_Ingr": "15-02-2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54251886589161,
+          -42.989593044769414
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "Código": 101946,
+        "Denuncia_T": "NO",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " CERMAQ CHILE S.A.",
+        "Fecha_Ingr": "01-08-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9714958685749,
+          -42.728226184620596
+        ]
+      },
+      "properties": {
+        "FID": 12,
+        "Código": 102423,
+        "Denuncia_T": "NO",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "CULTIVOS YADRAN SA",
+        "Fecha_Ingr": "08-05-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.10618431224695,
+          -42.732850381381674
+        ]
+      },
+      "properties": {
+        "FID": 13,
+        "Código": 104141,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "INVERMAR S.A.",
+        "Fecha_Ingr": "13-08-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.50216606109075,
+          -40.850796498945144
+        ]
+      },
+      "properties": {
+        "FID": 14,
+        "Código": 100625,
+        "Denuncia_T": "NO",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " MULTIEXPORT PACIFIC FARMS S.A.",
+        "Fecha_Ingr": "10-08-2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.84333144703314,
+          -42.804360869051784
+        ]
+      },
+      "properties": {
+        "FID": 15,
+        "Código": 103340,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " INVERMAR S.A.",
+        "Fecha_Ingr": "11-01-2021"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89543576200258,
+          -44.65251963313784
+        ]
+      },
+      "properties": {
+        "FID": 16,
+        "Código": 110175,
+        "Denuncia_T": "NO",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " EXPORTADORA LOS FIORDOS LTDA.",
+        "Fecha_Ingr": "15-05-2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.315558199274,
+          -45.373271821445584
+        ]
+      },
+      "properties": {
+        "FID": 17,
+        "Código": 110128,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " SALMONES ICE VAL LTDA.",
+        "Fecha_Ingr": "30-01-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.99548342109756,
+          -45.39761387257515
+        ]
+      },
+      "properties": {
+        "FID": 18,
+        "Código": 110138,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "AQUACHILE SPA",
+        "Fecha_Ingr": "24-04-2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.19433201124896,
+          -44.020592921126216
+        ]
+      },
+      "properties": {
+        "FID": 19,
+        "Código": 110213,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "EMPRESAS AQUACHILE S.A.",
+        "Fecha_Ingr": "24-04-2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.46998241859507,
+          -45.039703716984306
+        ]
+      },
+      "properties": {
+        "FID": 20,
+        "Código": 110318,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " MOWI CHILE S.A.",
+        "Fecha_Ingr": "12-08-2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.45962199465275,
+          -45.03902008136624
+        ]
+      },
+      "properties": {
+        "FID": 21,
+        "Código": 110291,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "MOWI CHILE S.A.",
+        "Fecha_Ingr": "12-08-2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.81240499237731,
+          -42.94323204473429
+        ]
+      },
+      "properties": {
+        "FID": 22,
+        "Código": 102619,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "PRODUCTOS DEL MAR VENTISQUEROS SA",
+        "Fecha_Ingr": "30-06-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98774429521379,
+          -45.388960444478656
+        ]
+      },
+      "properties": {
+        "FID": 23,
+        "Código": 110401,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "RN Las Guaitecas",
+        "Empresa": " SOCIEDAD DE INVERSIONES ISLA VICTORIA LTDA",
+        "Fecha_Ingr": "30-01-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.88298205388588,
+          -43.21417598906309
+        ]
+      },
+      "properties": {
+        "FID": 24,
+        "Código": 102895,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " PRODUCTOS DEL MAR VENTISQUEROS S.A.",
+        "Fecha_Ingr": "01-02-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.64959329119638,
+          -44.36761041719136
+        ]
+      },
+      "properties": {
+        "FID": 25,
+        "Código": 110464,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "SALMONES CAMANCHACA S.A.",
+        "Fecha_Ingr": "24-04-2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.22267492182247,
+          -44.28088118722617
+        ]
+      },
+      "properties": {
+        "FID": 26,
+        "Código": 110423,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " EMPRESAS AQUACHILE S.A.",
+        "Fecha_Ingr": "30-01-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.27232521517425,
+          -44.48838336103953
+        ]
+      },
+      "properties": {
+        "FID": 27,
+        "Código": 110686,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "RN Las Guaitecas",
+        "Empresa": "MOWI CHILE S.A.",
+        "Fecha_Ingr": "13-08-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14645777850515,
+          -44.4570239570333
+        ]
+      },
+      "properties": {
+        "FID": 28,
+        "Código": 110603,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "RN Las Guaitecas",
+        "Empresa": "MOWI CHILE S.A.",
+        "Fecha_Ingr": "20-12-2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.30592465448944,
+          -44.337670025081664
+        ]
+      },
+      "properties": {
+        "FID": 29,
+        "Código": 110647,
+        "Denuncia_T": "NO",
+        "Cantidad_d": 1,
+        "Área_Prot": "RN Las Guaitecas",
+        "Empresa": " SALMONES BLUMAR S.A.",
+        "Fecha_Ingr": "06-12-2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68322488578877,
+          -44.49582662619208
+        ]
+      },
+      "properties": {
+        "FID": 30,
+        "Código": 110699,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " PRODUCTOS DEL MAR VENTISQUEROS S.A.",
+        "Fecha_Ingr": "01-02-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.70851790298303,
+          -41.595601299947
+        ]
+      },
+      "properties": {
+        "FID": 31,
+        "Código": 100078,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "UNIVERSIDAD DE LOS LAGOS",
+        "Fecha_Ingr": "01-10-2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.00079346766353,
+          -42.79358418704188
+        ]
+      },
+      "properties": {
+        "FID": 32,
+        "Código": 103304,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " INVERMAR S.A.",
+        "Fecha_Ingr": "01-02-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.092701089568,
+          -42.766760073109744
+        ]
+      },
+      "properties": {
+        "FID": 33,
+        "Código": 103306,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " INVERMAR S.A.",
+        "Fecha_Ingr": "01-02-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.02044505992986,
+          -44.51050577414347
+        ]
+      },
+      "properties": {
+        "FID": 34,
+        "Código": 110388,
+        "Denuncia_T": "NO",
+        "Cantidad_d": 1,
+        "Área_Prot": "RN Las Guaitecas",
+        "Empresa": "SOCIEDAD DE INVERSIONES ISLA VICTORIA LTDA",
+        "Fecha_Ingr": "22-09-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2951787287035,
+          -44.621828593244146
+        ]
+      },
+      "properties": {
+        "FID": 35,
+        "Código": 110376,
+        "Denuncia_T": "NO",
+        "Cantidad_d": 1,
+        "Área_Prot": "RN Las Guaitecas",
+        "Empresa": "MULTI X SA",
+        "Fecha_Ingr": "22-09-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67682876059202,
+          -52.11499065468015
+        ]
+      },
+      "properties": {
+        "FID": 36,
+        "Código": 120065,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "SERVICIOS DE ACUICULTURA ACUIMAG S.A.",
+        "Fecha_Ingr": "08-08-2021"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.00013589708954,
+          -42.245113995875386
+        ]
+      },
+      "properties": {
+        "FID": 37,
+        "Código": 103566,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "INVERMAR S.A.",
+        "Fecha_Ingr": "23-05-2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90708354389714,
+          -51.75738751817095
+        ]
+      },
+      "properties": {
+        "FID": 38,
+        "Código": 120095,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " SERVICIOS DE ACUICULTURA ACUIMAG S. A.",
+        "Fecha_Ingr": "01-12-2016"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.870246084094,
+          -52.17780350121797
+        ]
+      },
+      "properties": {
+        "FID": 39,
+        "Código": 120079,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 2,
+        "Área_Prot": "RN Kawésqar",
+        "Empresa": "AQUACHILE MAGALLANES SPA",
+        "Fecha_Ingr": "13-08-2024 - 13-08-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.88756449965098,
+          -52.27238685374622
+        ]
+      },
+      "properties": {
+        "FID": 40,
+        "Código": 120077,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 2,
+        "Área_Prot": "RN Kawésqar",
+        "Empresa": "AQUACHILE MAGALLANES SPA",
+        "Fecha_Ingr": "28-12-2023 - 13-08-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90071658102737,
+          -51.774446408896104
+        ]
+      },
+      "properties": {
+        "FID": 41,
+        "Código": 120113,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "SERVICIOS DE ACUICULTURA ACUIMAG S.A.",
+        "Fecha_Ingr": "03-03-2020"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.88294748409986,
+          -52.581418514934434
+        ]
+      },
+      "properties": {
+        "FID": 42,
+        "Código": 120193,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "EMPRESAS AQUACHILE S.A.",
+        "Fecha_Ingr": "28-12-2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60087846162487,
+          -51.81016997827308
+        ]
+      },
+      "properties": {
+        "FID": 43,
+        "Código": 120035,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "AQUACHILE MAGALLANES SPA",
+        "Fecha_Ingr": "30-06-2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0356595905121,
+          -42.781617530131285
+        ]
+      },
+      "properties": {
+        "FID": 44,
+        "Código": 103339,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " INVERMAR S.A.",
+        "Fecha_Ingr": "01-02-2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.57850649243154,
+          -41.4358596729526
+        ]
+      },
+      "properties": {
+        "FID": 45,
+        "Código": 100394,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": "INVERSIONES AQUACHILE SPA.",
+        "Fecha_Ingr": "10-08-2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.38124260636408,
+          -44.36762647548822
+        ]
+      },
+      "properties": {
+        "FID": 46,
+        "Código": 110912,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 2,
+        "Área_Prot": "RN Las Guaitecas",
+        "Empresa": " SALMONES MULTIEXPORT S.A. ",
+        "Fecha_Ingr": "24-04-2025 - 24-04-2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.46686124808588,
+          -42.314071717664284
+        ]
+      },
+      "properties": {
+        "FID": 47,
+        "Código": 103310,
+        "Denuncia_T": "SI",
+        "Cantidad_d": 1,
+        "Área_Prot": "NO",
+        "Empresa": " INVERMAR S.A.",
+        "Fecha_Ingr": "10-04-2024"
+      }
+    }
+  ]
+}

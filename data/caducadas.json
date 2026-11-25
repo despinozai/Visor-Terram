@@ -1,0 +1,1643 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.866064802643436,
+          -44.654294466232173
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Código" : 110788,
+        "Empresa" : "Blumar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "RN Las Guaitecas"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.848416122961254,
+          -42.635384397082063
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Código" : 102933,
+        "Empresa" : "Salmones Humboldt",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.255045120240922,
+          -40.29747051278126
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Código" : 101955,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "NO",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.848554488220543,
+          -42.707888217607653
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Código" : 104074,
+        "Empresa" : "Salmones Humboldt",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -71.397223125069445,
+          -52.798558630398624
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Código" : 120051,
+        "Empresa" : "Pesca Suriberica",
+        "Cultivo" : "salmónidos",
+        "Región" : "Magallanes",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.027217769429043,
+          -52.547990696047655
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Código" : 120007,
+        "Empresa" : "Salmones Tierra del Fuego",
+        "Cultivo" : "salmónidos",
+        "Región" : "Magallanes",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.008879842988506,
+          -41.190412686981738
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Código" : 100510,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.795853822635706,
+          -42.80397368233173
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Código" : 100600,
+        "Empresa" : "Invermar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.930486799755187,
+          -42.684176163356312
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Código" : 100968,
+        "Empresa" : "Salmones Tecmar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.73742520541586,
+          -42.961012237657989
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Código" : 101746,
+        "Empresa" : "Salmones Tecmar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.735854496986505,
+          -41.576642808219219
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Código" : 104102,
+        "Empresa" : "Carlos Barría Gunckel",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.62772696587102,
+          -44.411522631860279
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Código" : 110105,
+        "Empresa" : "Patagonia Salmon Farming",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.917144657187563,
+          -51.754184988235899
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Código" : 120045,
+        "Empresa" : "Seamag",
+        "Cultivo" : "salmónidos",
+        "Región" : "Magallanes",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.032542259964174,
+          -53.057081089334226
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Código" : 120196,
+        "Empresa" : "Blumar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Magallanes",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "RN Kawésqar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.012158026092905,
+          -41.192225254675598
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Código" : 100511,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.535627645731992,
+          -41.415214260538178
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Código" : 101332,
+        "Empresa" : "Salmones Tecmar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.952414335663605,
+          -41.49715289107629
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Código" : 102034,
+        "Empresa" : "Ventisqueros",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.482688954913129,
+          -45.003942218106033
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Código" : 110487,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.160508817795929,
+          -41.744062459127704
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Código" : 100333,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.599468261294859,
+          -42.014839000046521
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Código" : 100088,
+        "Empresa" : "Ventisqueros",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.621529097176435,
+          -42.054497405655994
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Código" : 100096,
+        "Empresa" : "Malomacun",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.034548146006827,
+          -41.537358177550132
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Código" : 100271,
+        "Empresa" : "SEA Salmon",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.835247018532655,
+          -45.419697267880949
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Código" : 110082,
+        "Empresa" : "Blumar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "NO",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.514241892199621,
+          -41.962020926710068
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Código" : 102055,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.082760750473753,
+          -42.609498132539272
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Código" : 102401,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.370046184104993,
+          -42.490913964622429
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Código" : 102281,
+        "Empresa" : "Salmones Antártica",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "NO",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.975684622027501,
+          -43.264742212587549
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Código" : 103740,
+        "Empresa" : "Salmones Humboldt",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.06545573563001,
+          -43.414359658374408
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Código" : 103741,
+        "Empresa" : "Salmones Humboldt",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.845638433848848,
+          -43.023330688095356
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Código" : 102966,
+        "Empresa" : "Ventisqueros",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.988537633337955,
+          -41.863107462718638
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Código" : 103341,
+        "Empresa" : "Ventisqueros",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.413183972536928,
+          -42.38798622493907
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Código" : 103746,
+        "Empresa" : "Salmones Antártica",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.539232019272816,
+          -42.576801005814545
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Código" : 104111,
+        "Empresa" : "Cermaq Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.63204894557434,
+          -42.420753891430806
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Código" : 100075,
+        "Empresa" : "Salmones Antártica",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "NO",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.043305542509074,
+          -41.715804473529552
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Código" : 100186,
+        "Empresa" : "Australis Agua Dulce",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.122931430212702,
+          -41.756841978643848
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Código" : 100636,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.621152503710277,
+          -42.474013080975077
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Código" : 101769,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.119554853316529,
+          -42.662947548374213
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Código" : 103307,
+        "Empresa" : "Invermar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.515549124757598,
+          -45.764531056515445
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Código" : 110142,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "NO",
+        "Denuncia_T" : "NO",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.298191435136047,
+          -45.651832789062908
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Código" : 110141,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.849738105946741,
+          -42.743241478857968
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "Código" : 102207,
+        "Empresa" : "Ventisqueros",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.995483420687435,
+          -45.397613872530535
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "Código" : 110138,
+        "Empresa" : "Aquachile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.440416007040454,
+          -41.683821553400023
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "Código" : 103595,
+        "Empresa" : "Caleta Bay Mar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "NO",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.010754594585194,
+          -42.589673729903168
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "Código" : 102402,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.079867147366585,
+          -42.727360410587288
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "Código" : 102654,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.663532775458663,
+          -43.887458710473524
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "Código" : 110486,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.827943158668347,
+          -43.908416904532245
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "Código" : 110634,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.833512324609615,
+          -45.408292444704799
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "Código" : 110386,
+        "Empresa" : "Salmones Friosur",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "NO",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.468430538579938,
+          -43.13415627964207
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "Código" : 102837,
+        "Empresa" : "Cermaq Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.863069267184287,
+          -43.036971727223417
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "Código" : 103471,
+        "Empresa" : "Ventisqueros",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.12120897593573,
+          -42.692818599403438
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "Código" : 103308,
+        "Empresa" : "Invermar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.272152031716374,
+          -44.318303724457444
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "Código" : 110560,
+        "Empresa" : "Multi X",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "RN Las Guaitecas"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.102295195953488,
+          -45.767188942848435
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "Código" : 110583,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.167728319996186,
+          -41.738372284119819
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "Código" : 100052,
+        "Empresa" : "Sociedad Comercial Canal Pérez",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.691532506941428,
+          -44.096054377176266
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "Código" : 110662,
+        "Empresa" : "Invermar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.510338167051955,
+          -45.070219782377286
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "Código" : 110316,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.928798777735977,
+          -45.563709574408826
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "Código" : 110752,
+        "Empresa" : "Blumar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "RN Las Guaitecas"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.121179810646382,
+          -45.411764726851466
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "Código" : 110369,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.831763785108009,
+          -44.132927247492852
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "Código" : 110534,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.994919508781265,
+          -42.628799116568835
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "Código" : 102493,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.51814692472577,
+          -44.174051212140355
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "Código" : 110574,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.731865208322205,
+          -51.570282687628122
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "Código" : 120064,
+        "Empresa" : "Ventisqueros",
+        "Cultivo" : "salmónidos",
+        "Región" : "Magallanes",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.097262416030588,
+          -45.587572512295807
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "Código" : 110892,
+        "Empresa" : "Cermaq Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "RN Las Guaitecas"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.623719675673087,
+          -46.211447694130698
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "Código" : 110769,
+        "Empresa" : "Cooke Aquaculture",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "NO",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.680358620082558,
+          -44.236518988036281
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "Código" : 110700,
+        "Empresa" : "Ventisqueros",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.827465034792368,
+          -44.353664543313435
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "Código" : 110933,
+        "Empresa" : "Yadrán Cisnes",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "NO",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.034579977018041,
+          -41.528270124297215
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "Código" : 100325,
+        "Empresa" : "Servicios Marítimos Oxxean",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.661620846529573,
+          -42.476746827853979
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "Código" : 100068,
+        "Empresa" : "Salmones Tecmar",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.270678164652139,
+          -45.501674424073826
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "Código" : 110544,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -74.263519940743265,
+          -44.90454929010054
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "Código" : 110938,
+        "Empresa" : "Camanchaca",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "RN Las Guaitecas"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.223233774462784,
+          -42.225105801323238
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "Código" : 102314,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.358830347880101,
+          -42.624880385380372
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "Código" : 102166,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.278223257251639,
+          -42.581602223655153
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "Código" : 102832,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "NO",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.868132776758671,
+          -41.283348191103009
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "Código" : 100070,
+        "Empresa" : "Cermaq Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.741026079470586,
+          -41.006706872864797
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "Código" : 100627,
+        "Empresa" : "Multi X",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.697778908629402,
+          -41.01723715729392
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "Código" : 100628,
+        "Empresa" : "Multi X",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "NO",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.875862718607848,
+          -40.965664496346513
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "Código" : 100545,
+        "Empresa" : "Aquachile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Los Lagos",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -72.831270312061662,
+          -45.480053703207375
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "Código" : 110122,
+        "Empresa" : "Salmones Antártica",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "NO",
+        "Área_Prot" : "NO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -73.545987245075821,
+          -45.027132540117151
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "Código" : 110319,
+        "Empresa" : "Mowi Chile",
+        "Cultivo" : "salmónidos",
+        "Región" : "Aysén",
+        "Informada" : "SI",
+        "Denuncia_T" : "SI",
+        "Área_Prot" : "NO"
+      }
+    }
+  ]
+}
